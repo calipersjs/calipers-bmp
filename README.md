@@ -1,6 +1,6 @@
 #calipers-bmp
 
-[![npm version](https://badge.fury.io/js/calipers-bmp.svg)](http://badge.fury.io/js/calipers-bmp) [![Build Status](https://travis-ci.org/calipersjs/calipers-bmp.svg)](https://travis-ci.org/calipersjs/calipers-bmp) [![Coverage Status](https://coveralls.io/repos/calipersjs/calipers-bmp/badge.svg)](https://coveralls.io/r/calipersjs/calipers-bmp)
+[![npm version](https://badge.fury.io/js/calipers-bmp.svg)](http://badge.fury.io/js/calipers-bmp) [![Build Status](https://travis-ci.org/calipersjs/calipers-bmp.svg?branch=master)](https://travis-ci.org/calipersjs/calipers-bmp) [![Coverage Status](https://coveralls.io/repos/calipersjs/calipers-bmp/badge.svg)](https://coveralls.io/r/calipersjs/calipers-bmp)
 
 BMP Plugin for [Calipers](https://github.com/calipersjs/calipers).
 
